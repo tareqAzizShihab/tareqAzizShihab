@@ -1,22 +1,12 @@
-# Hello!
-# I'm Tareq Aziz
+# Hi, I'm Tareq Aziz
 
 I'm a web developer and learner interested in building software and understanding how things work under the hood.
 
-### Currently
-
-- Learning and practicing JavaScript, Node.js, backend development, and databases
     
-- Rebuilding my hands-on coding skills through small projects and engineering experiments
-    
-- Working on `CodeWithoutCloud` — coding without AI code generation or suggestions (Under planning)
-    
-- Exploring system design, authentication, networking, and web architecture
-    
-
 ### Tech I Work With
 
 JavaScript · Node.js · Express · React · Next.js · PostgreSQL · Git · Linux
+
 
 ### Featured Work
 
@@ -29,6 +19,16 @@ A collection of small hands-on projects and engineering artifacts built from scr
 ### What I'm Interested In
 
 Web Engineering · Backend Development · Databases · Networking · Software Architecture · System Design
+
+### Currently
+
+- Learning and practicing JavaScript, Node.js, backend development, and databases
+    
+- Rebuilding my hands-on coding skills through small projects and engineering experiments
+    
+- Working on `CodeWithoutCloud` — coding without AI code generation or suggestions (Under planning)
+    
+- Exploring system design, authentication, networking, and web architecture
 
 ### GitHub
 
