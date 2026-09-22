@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello!
+# I'm Tareq Aziz
 
-<!--
-**tareqAzizShihab/tareqAzizShihab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and learner interested in building software and understanding how things work under the hood.
 
-Here are some ideas to get you started:
+### Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning and practicing JavaScript, Node.js, backend development, and databases
+    
+- Rebuilding my hands-on coding skills through small projects and engineering experiments
+    
+- Working on `CodeWithoutCloud` — coding without AI code generation or suggestions (Under planning)
+    
+- Exploring system design, authentication, networking, and web architecture
+    
+
+### Tech I Work With
+
+JavaScript · Node.js · Express · React · Next.js · PostgreSQL · Git · Linux
+
+### Featured Work
+
+**Tuition Media**  
+A production tutoring-management platform built with React/Next.js, Node.js/Express, and PostgreSQL. The production source code is private.
+
+**CodeWithoutCloud** (Under planning)
+A collection of small hands-on projects and engineering artifacts built from scratch to strengthen programming fundamentals and understand the abstractions behind common tools and frameworks.
+
+### What I'm Interested In
+
+Web Engineering · Backend Development · Databases · Networking · Software Architecture · System Design
+
+### GitHub
+
+Most of my repositories are experiments, learning projects, and things I'm building to understand software more deeply.
