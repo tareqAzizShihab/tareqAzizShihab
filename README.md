@@ -26,7 +26,7 @@ Web Engineering · Backend Development · Databases · Networking · Software Ar
     
 - Rebuilding my hands-on coding skills through small projects and engineering experiments
     
-- Working on `CodeWithoutCloud` — coding without AI code generation or suggestions (Under planning)
+- Working on `[CodeWithoutCloud](https://github.com/tareqAzizShihab/CodeWithoutCloud)` — coding without AI code generation or suggestions
     
 - Exploring system design, authentication, networking, and web architecture
 
